@@ -1,0 +1,46 @@
+body{
+	background-color: rgb(14, 27, 48);
+}
+#main-wrapper{
+	width : 400px;
+	margin: 60px auto auto auto;
+	background-color: rgb(50, 53, 58);
+	border-radius: 5px;
+	opacity: 0.8;
+	color: rgb(237, 240, 244);
+
+}
+
+#toggle{
+	display: block;
+	margin: auto; 
+	padding-top: 40px;
+
+}
+#unit{
+	display: block;
+	margin: auto;
+
+}
+.weather{
+	font-size: 80px;
+	color: rgb(9, 29, 61);
+	background-color: rgb(237, 240, 244);
+	border-radius: 5px;
+}
+.hideTemp {
+  display: none;
+}
+
+#city,#comma,#country{
+	font-size: 40px;
+}
+
+#temperature,#conditions,#humid{
+	font-size: 25px;
+
+}
+#author{
+	font-size: 15px;
+	margin-top: 20px;
+}
